@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Me chamo Wenvel Kaique, sou natural de Palmital. Atualmente estou cursando Desenvolvimento de Sistemas na Etec de Peruíbe. Gosto muito de tecnologia e de assuntos relacionados a programação.
+Olá Me chamo Wenvel Kaique, sou natural de Palmital. Atualmente estou cursando Desenvolvimento de Sistemas na Etec de Peruíbe. Gosto muito de tecnologia e de assuntos relacionados a programação.
 
 <p align="left">
     <a href="https://github.com/Animes-web?tab=repositories&sort=stargazers">
