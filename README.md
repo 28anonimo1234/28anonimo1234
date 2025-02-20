@@ -155,7 +155,7 @@ Me chamo Wenvel Kaique, sou natural de Palmital. Atualmente estou cursando Desen
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animes-web&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="![ウェンベル / Astolfo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ウェンベル / Astolfo&theme=gotham&show_icons=true&hide_border=false&layout=compact)" 
   />
 
 </p>
