@@ -151,11 +151,5 @@ Me chamo Wenvel Kaique, sou natural de Palmital. Atualmente estou cursando Desen
     style="padding-right: 10px;" 
     src="![ウェンベル / Astolfo's Stats](https://github-readme-stats.vercel.app/api?username=ウェンベル / Astolfo&theme=gotham&show_icons=true&hide_border=false&count_private=true)" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="![ウェンベル / Astolfo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ウェンベル / Astolfo&theme=gotham&hide_border=false)" 
-  />
 
 </p>
