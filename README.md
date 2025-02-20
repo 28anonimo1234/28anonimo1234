@@ -1,8 +1,26 @@
-# 👩🏻‍💻 Wenvel Kaique
+# 👩🏻‍💻 Wenvel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
 Me chamo Wenvel Kaique, sou natural de Palmital. Atualmente estou cursando Desenvolvimento de Sistemas na Etec de Peruíbe. Gosto muito de tecnologia e de assuntos relacionados a programação.
+
+<p align="left">
+    <a href="https://github.com/Animes-web?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Animes-web?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Animes-web?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Animes-web?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -134,4 +152,11 @@ Me chamo Wenvel Kaique, sou natural de Palmital. Atualmente estou cursando Desen
     src="![ウェンベル / Astolfo's Stats](https://github-readme-stats.vercel.app/api?username=ウェンベル / Astolfo&theme=gotham&show_icons=true&hide_border=false&count_private=true)" 
   />
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
+</p>
