@@ -23,7 +23,8 @@ Olá Me chamo Wenvel Kaique, sou natural de Palmital. Atualmente estou cursando 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens 
+
 
 <img 
     align="left" 
