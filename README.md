@@ -51,18 +51,6 @@ Olá Me chamo Wenvel Kaique, sou natural de Palmital. Atualmente estou cursando 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
- 
-
 <img 
     align="left" 
     alt="PHP" 
