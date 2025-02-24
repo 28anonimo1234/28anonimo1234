@@ -5,11 +5,11 @@
 Olá Me chamo Wenvel Kaique,  Atualmente estou cursando Desenvolvimento de Sistemas na Etec de Peruíbe. Gosto muito de tecnologia e de assuntos relacionados a programação.
 
 <p align="left">
-    <a href="https://github.com/Animes-web?tab=repositories&sort=stargazers">
+    <a href="https://github.com/animes-web?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Animes-web?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/animes-web?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/Animes-web?tab=followers">
