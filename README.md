@@ -1,11 +1,12 @@
-<h1 align="center">✨ Bem-vindo (a) ao meu perfil! ✨</h1>
+<h1 align="center">✨ Bem-vindo (a) ao meu perfil! ✨<p align="center">
+  <img src="https://media1.giphy.com/media/FeVg8ViEczcxG/200.webp?cid=790b7611k28mw9xfkknsi5mhdt60nrkq109mp7r2yd36bycy&ep=v1_gifs_search&rid=200.webp&ct=g" width="50px" alt="GIF animado"/>
+</p>
+</h1>
 
 
 <img src="https://i.gifer.com/66ak.gif" width="400px"/>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/FeVg8ViEczcxG/200.webp?cid=790b7611k28mw9xfkknsi5mhdt60nrkq109mp7r2yd36bycy&ep=v1_gifs_search&rid=200.webp&ct=g" width="100vh" alt="GIF animado"/>
-</p>
+
 
 ## Sobre mim
 
