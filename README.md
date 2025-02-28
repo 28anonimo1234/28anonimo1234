@@ -48,4 +48,4 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-WenvelKaique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenvel-kaique-989230310/)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Animes-web)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/animes-web)
