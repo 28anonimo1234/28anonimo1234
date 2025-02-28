@@ -40,8 +40,8 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?animes-web=animes-web&show_icons=true&theme=tokyonight" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?animes-web=animes-web&layout=compact&theme=tokyonight" width="400px"/>
+  <img src="![animes-web's Stats](https://github-readme-stats.vercel.app/api?username=animes-web&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"/>
+  <img src="![animes-web's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animes-web&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
 </p>
 
 ## Onde me encontrar
