@@ -47,6 +47,11 @@
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/animes-web)
 
 <p align="center">
+  <img src="https://github.com/animes-web/Animes-web/blob/main/loading.gif" width="200px">
+</p>
+
+
+<p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
