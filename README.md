@@ -44,6 +44,7 @@
   <img src="![animes-web's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animes-web&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
 </p>
 
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-WenvelKaique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenvel-kaique-989230310/)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
