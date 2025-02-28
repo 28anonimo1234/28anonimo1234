@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="![animes-web's Stats](https://github-readme-stats.vercel.app/api?username=animes-web&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"/>
-  <img src="![animes-web's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=animes-web&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)"/>
+
 </p>
 
 
