@@ -18,10 +18,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
-
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
@@ -49,3 +45,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-WenvelKaique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenvel-kaique-989230310/)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/animes-web)
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
