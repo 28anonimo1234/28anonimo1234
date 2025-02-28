@@ -1,4 +1,5 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<img src="https://i.gifer.com/66ak.gif" width="400px"/>
+
 
 ## Sobre mim
 
