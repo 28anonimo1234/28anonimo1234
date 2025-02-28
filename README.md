@@ -39,9 +39,10 @@
 
 <br/>
 
-<a href="https://github.com/animes-web" title="Perfil do Iuri">
-  <img height="180em" src="![Animes-web's Stats](https://github-readme-stats.vercel.app/api?username=Animes-web&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?animes-web=animes-web&show_icons=true&theme=tokyonight" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?animes-web=animes-web&layout=compact&theme=tokyonight" width="400px"/>
+</p>
 
 ## Onde me encontrar
 
