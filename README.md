@@ -6,9 +6,9 @@
 
 <img src="https://i.gifer.com/66ak.gif" width="400px"/>
 
-<p align="center", right>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&redirect=true)
-</p>
+
 
 ## Sobre mim
 
