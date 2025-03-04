@@ -3,9 +3,8 @@
 </p>
 </h1>
 
-### oi
 
-<h1 align="right"> Me chamo Wenvel e sou apaixonado por tecnologia, programação e tudo que envolve desenvolvimento de sistemas. Atualmente, curso de Desenvolvimento de Sistemas na ETEC de Peruíbe e tenho grandes planos para o futuro, incluindo a possibilidade de cursar Engenharia Mecânica.
+<h1 align="right">  ### Me chamo Wenvel e sou apaixonado por tecnologia, programação e tudo que envolve desenvolvimento de sistemas. Atualmente, curso de Desenvolvimento de Sistemas na ETEC de Peruíbe e tenho grandes planos para o futuro, incluindo a possibilidade de cursar Engenharia Mecânica.
 &nbsp;
 Tenho experiência com diversas tecnologias, como HTML, CSS, JavaScript,  e MySQL, e estou sempre buscando aprimorar minhas habilidades. Gosto de criar sites completos, desde a ideia inicial até a implementação final, garantindo que cada projeto seja funcional e bem estruturado.
 &nbsp;
