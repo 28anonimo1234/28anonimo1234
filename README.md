@@ -16,7 +16,8 @@ Gosto de desafios e sempre estou disposto a aprender algo novo, seja sobre desen
 </p>
 </h1>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&redirect=true) 
 
 
 ## Sobre mim
