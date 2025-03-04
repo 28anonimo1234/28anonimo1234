@@ -6,13 +6,13 @@
 
 
 <h1 align="right">Me chamo Wenvel e sou apaixonado por tecnologia, programação e tudo que envolve desenvolvimento de sistemas. Atualmente, curso de Desenvolvimento de Sistemas na ETEC de Peruíbe e tenho grandes planos para o futuro, incluindo a possibilidade de cursar Engenharia Mecânica.
-
+&nbsp;
 Tenho experiência com diversas tecnologias, como HTML, CSS, JavaScript,  e MySQL, e estou sempre buscando aprimorar minhas habilidades. Gosto de criar sites completos, desde a ideia inicial até a implementação final, garantindo que cada projeto seja funcional e bem estruturado.
-
+&nbsp;
 Sou um grande fã de animes, especialmente Saikyou Onmyouji no Isekai Tenseiki, e adoro criar conteúdo relacionado, incluindo edições de vídeo com efeitos impressionantes no CapCut. Recentemente, estou focado em aprimorar minhas edições e experimentar diferentes estilos para deixar minhas produções ainda mais dinâmicas.
-
+&nbsp;
 Tenho um grande interesse por carros, especialmente o Audi A4 2.0 TFSI Ambiente S Tronic 2017, e sonho em viajar para o Japão e a Austrália. Além disso, também estou treinando minha pronúncia para melhorar minha comunicação e ampliar minhas oportunidades.
-
+&nbsp;
 Gosto de desafios e sempre estou disposto a aprender algo novo, seja sobre desenvolvimento, design, eletrônica ou qualquer outro tema que desperte minha curiosidade. Se quiser trocar uma ideia, estou sempre aberto a novas conexões! 
 <img align="center" src="https://i.gifer.com/66ak.gif" width="400px"/>
 </p>
