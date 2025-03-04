@@ -3,7 +3,7 @@
 </p>
 </h1>
 
-<h1 align="right">✨ ✨<p align="right">
+<h1 align="right"><p align="right">
 <img align="center" src="https://i.gifer.com/66ak.gif" width="400px"/>
 </p>
 </h1>
