@@ -13,7 +13,7 @@ Sou um grande fã de animes, especialmente Saikyou Onmyouji no Isekai Tenseiki, 
 
 Tenho um grande interesse por carros, especialmente o Audi A4 2.0 TFSI Ambiente S Tronic 2017, e sonho em viajar para o Japão e a Austrália. Além disso, também estou treinando minha pronúncia para melhorar minha comunicação e ampliar minhas oportunidades.
 
-Gosto de desafios e sempre estou disposto a aprender algo novo, seja sobre desenvolvimento, design, eletrônica ou qualquer outro tema que desperte minha curiosidade. Se quiser trocar uma ideia, estou sempre aberto a novas conexões! <p align="right">
+Gosto de desafios e sempre estou disposto a aprender algo novo, seja sobre desenvolvimento, design, eletrônica ou qualquer outro tema que desperte minha curiosidade. Se quiser trocar uma ideia, estou sempre aberto a novas conexões! 
 <img align="center" src="https://i.gifer.com/66ak.gif" width="400px"/>
 </p>
 </h1>
