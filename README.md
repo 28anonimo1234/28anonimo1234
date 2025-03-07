@@ -1,13 +1,8 @@
 <h1 align="center">✨ Bem-vindo (a) ao meu perfil! ✨<p align="center">
-  <img src="https://media1.giphy.com/media/FeVg8ViEczcxG/200.webp?cid=790b7611k28mw9xfkknsi5mhdt60nrkq109mp7r2yd36bycy&ep=v1_gifs_search&rid=200.webp&ct=g" width="50px" alt="GIF animado"/>
 </p>
 </h1>
 
-### Me chamo Wenvel e sou apaixonado por tecnologia, programação e tudo que envolve desenvolvimento de sistemas. Atualmente, curso de Desenvolvimento de Sistemas na ETEC de Peruíbe e tenho grandes planos para o futuro, incluindo a possibilidade de cursar Engenharia Mecânica.
-
-Tenho experiência com diversas tecnologias, como HTML, CSS, JavaScript,  e MySQL, e estou sempre buscando aprimorar minhas habilidades. Gosto de criar sites completos, desde a ideia inicial até a implementação final, garantindo que cada projeto seja funcional e bem estruturado.
-
-Gosto de desafios e sempre estou disposto a aprender algo novo, seja sobre desenvolvimento, design, eletrônica ou qualquer outro tema que desperte minha curiosidade. Se quiser trocar uma ideia, estou sempre aberto a novas conexões! 
+### Olá me chamo Wenvel e sou apaixonado por tecnologia, programação e tudo que envolve desenvolvimento de sistemas.
 <h1 align="right">  <img align="center" src="https://i.gifer.com/66ak.gif" width="400px"/>
 </p>
 </h1>
