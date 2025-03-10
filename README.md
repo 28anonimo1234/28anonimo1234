@@ -3,11 +3,9 @@
 </h1>
 
 ### Olá me chamo Wenvel e sou apaixonado por tecnologia, programação e tudo que envolve desenvolvimento de sistemas.
-<h1 align="right">  <img align="center" src="https://i.gifer.com/66ak.gif" width="400px"/>
-</p>
-</h1>
 
-(https://youtu.be/lb_1Zvs088A?si=8zxAk8k4YdweJeLX)
+
+
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&redirect=true) 
 
