@@ -42,7 +42,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=animes-web&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animes-web&theme=nord&show_icons=true&hide_border=false&layout=compact)"/>
-
+![Animes-web's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Animes-web&theme=nord&show_icons=true&hide_border=false&layout=compact)
 </p>
 
 
