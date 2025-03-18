@@ -13,7 +13,7 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Desenvolvimento de Sistemas na Etec de Peruíbe.
+
 - 🌱 Aprendendo mais sobre Python e C#.
 
 ## Minhas Skills
