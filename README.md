@@ -14,8 +14,6 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 
-- 🌱 Aprendendo mais sobre Python e C#.
-
 ## Minhas Skills
 
 **Aplicações e dados**
