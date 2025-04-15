@@ -2,7 +2,7 @@
 </p>
 </h1>
 
-### Olá me chamo Wenvel e sou apaixonado por tecnologia, programação e tudo que envolve desenvolvimento de sistemas.
+### Olá me chamo Rebeca e sou apaixonada por tecnologia, programação e tudo que envolve desenvolvimento de sistemas.
 
 
 
