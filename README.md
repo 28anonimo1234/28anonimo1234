@@ -1,5 +1,5 @@
 <h1 align="center" style="color:hotpink;">✨ Bem-vindo(a) ao meu perfil! ✨</h1>
-<p align="center" style="color:pink;">🌸 Onde a tecnologia encontra a fofura 🌸</p>
+<p align="center" style="color:pink;">🌸  🌸</p>
 
 ---
 
@@ -50,7 +50,6 @@
 ### 💕 Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-WenvelKaique-ff69b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenvel-kaique-989230310/)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
-[![GitHub](https://img.shields.io/github/followers/animes-web?label=Follow&style=social)](https://github.com/animes-web)
 
 ---
 
