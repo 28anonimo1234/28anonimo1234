@@ -1,64 +1,58 @@
-<h1 align="center" style="color:hotpink;">✨ Bem-vindo(a) ao meu perfil! ✨</h1>
-<p align="center" style="color:pink;">🌸  🌸</p>
-
----
-
-### 🌷 Sobre mim
-
-- 💖 Apaixonad@ por tecnologia, programação e tudo que envolve desenvolvimento de sistemas!
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software com amor e dedicação. ✨
-
----
-
-### 🎧 Meu gosto musical
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&show_offline=true&background_color=ffb6c1&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&redirect=true)
-
----
-
-### 🌸 Minhas Skills
-
-**💻 Aplicações e Dados:**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-ff69b4?style=flat&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-ff69b4?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-ff69b4?style=flat&logo=CSS3&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-ff69b4?style=flat&logo=mysql&logoColor=white)
-
-**🧰 Ferramentas de Desenvolvimento:**
-
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-ffb6c1?style=flat&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-ffb6c1?style=flat&logo=eclipse-ide&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-ffb6c1?style=flat&logo=trello&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-ffb6c1?style=flat&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-AdobeXD-ffb6c1?style=flat&logo=adobe-xd&logoColor=white)
-
----
-
-### 📊 Stats com glitter ✨
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=animes-web&theme=rose_pine&show_icons=true&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animes-web&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
+<h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲�𝓪(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
+<p align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4eWZqYjV4d2VtY3F5bGJ5ZzV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6Z3hyZGVnaW5nX2dpZg==" width="300px">
 </p>
 
 ---
 
-### 💕 Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-WenvelKaique-ff69b4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenvel-kaique-989230310/)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
+### 🌷 **Sobre mim**  
+- 💖 **Dev apaixonad@** por tecnologia, código e café (ou chá! 🍵).  
+- 🌱 Aprendendo **React, Node.js e UI/UX** com um toque de glitter.  
+- ✨ **Curiosidade:** Amo animes, música indie e gatos fofos 🐾.  
 
 ---
 
-<p align="center">
-  <img src="https://github.com/animes-web/Animes-web/blob/main/loading.gif" width="200px">
-</p>
+### 🎧 **O que estou ouvindo agora?**  
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true)](https://open.spotify.com/user/31qd7t3n3pko2nu272rtnsswcd3a)  
+
+*(Se quiser mostrar **YouTube Music**, posso te ajudar a configurar também!)*  
+
+---
+
+### 🌸 **Minhas Skills**  
+#### 💻 **Linguagens & Frameworks**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-ff69b4?style=for-the-badge&logo=react&logoColor=white)  
+
+#### 🛠️ **Ferramentas**  
+![VS Code](https://img.shields.io/badge/-VSCode-ffb6c1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-ffb6c1?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white)  
+
+---
+
+### 📊 **GitHub Stats**  
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=animes-web&theme=rose_pine&show_icons=true&hide_border=true&count_private=true" width="48%">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animes-web&theme=radical&hide_border=true&layout=compact" width="45%">  
+</div>  
+
+---
+
+### 💌 **Vamos conversar?**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_user)  
+
+---
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center" style="color:lightpink;">🌸 Com carinho, Wenvel Kaique 💖</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0YjB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0/giphy.gif" width="150px">
+</p>
+
+<p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ ✨</p>
