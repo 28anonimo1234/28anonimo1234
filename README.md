@@ -53,7 +53,7 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0YjB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0/giphy.gif" width="150px">
 </p>
 
