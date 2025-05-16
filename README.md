@@ -1,5 +1,5 @@
 <div align="center" style="width:100%; height:auto; background-image: url('https://i.pinimg.com/736x/9f/61/34/9f61344de25000ca4175073a203ca470.jpg'); background-size: cover; background-repeat: no-repeat; padding: 20px; border-radius: 10px;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4eWZqYjV4d2VtY3F5bGJ5ZzV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6Z3hyZGVnaW5nX2dpZg==" width="200px">
+    <img src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif" width="200px">
   <!-- Seu conteúdo aqui -->
  <h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲�𝓪(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
 <p align="center"> 
