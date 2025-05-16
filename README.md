@@ -59,9 +59,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
+### 🎮 **Seção Gamer**  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+
+[![Xbox](https://img.shields.io/badge/-Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?gamertag=SEU_GAMERTAG)  
+[![PlayStation](https://img.shields.io/badge/-PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/SEU_PSN_ID)  
+[![Steam](https://img.shields.io/badge/-Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/SEU_STEAM_ID/)  
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/)  
+
+</div>
 
 <!-- GIFs alinhados -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
