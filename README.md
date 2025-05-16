@@ -1,4 +1,7 @@
-<h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲�𝓪(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
+<div align="center" style="width:100%; height:auto; background-image: url('https://i.pinimg.com/736x/9f/61/34/9f61344de25000ca4175073a203ca470.jpg'); background-size: cover; background-repeat: no-repeat; padding: 20px; border-radius: 10px;">
+  
+  <!-- Seu conteúdo aqui -->
+ <h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲�𝓪(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
 <p align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4eWZqYjV4d2VtY3F5bGJ5ZzV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6Z3hyZGVnaW5nX2dpZg==" width="300px">
 </p>
@@ -15,15 +18,7 @@
 ### 🎧 **O que estou ouvindo agora?**  
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true)](https://open.spotify.com/user/31qd7t3n3pko2nu272rtnsswcd3a)  
 
-### 🌸 Status do YouTube  
 
-🎵 **Ouvindo agora:**  
-[![YouTube Music](https://img.shields.io/badge/▶️_YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com)  
-
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=SEU_USER_LASTFM&background_color=ff69b4&text_color=fff)](https://last.fm/user/SEU_USER_LASTFM)  
-
-📺 **Vídeo favorito do mês:**  
-[![Thumbnail](https://img.youtube.com/vi/LINK_DO_VIDEO/mqdefault.jpg)](https://youtu.be/LINK_DO_VIDEO)  
 ---
 
 ### 🌸 **Minhas Skills**  
@@ -63,3 +58,6 @@
 </p>
 
 <p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ ✨</p>
+
+  
+</div>
