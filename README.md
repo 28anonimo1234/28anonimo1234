@@ -15,7 +15,6 @@
 ### 🎧 **O que estou ouvindo agora?**  
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true)](https://open.spotify.com/user/31qd7t3n3pko2nu272rtnsswcd3a)  
 
-*(Se quiser mostrar **YouTube Music**, posso te ajudar a configurar também!)*  
 
 ---
 
