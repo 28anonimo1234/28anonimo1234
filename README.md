@@ -56,6 +56,9 @@
 <p align="right">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVscWh2d3NwNHA1dWFyNmllOGF3ZnY1cmVjYTd5YnozcHIweTU2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlBDoVLOGidEc/200.webp" width="300px">
 </p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/jt7bAtEijhurm/200.webp?cid=ecf05e47te80tknaj58h2buqr3i6p7dau7x7as7t5ymml7xr&ep=v1_gifs_search&rid=200.webp&ct=g" width="300px">
+</p>
 
 <p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ ✨</p>
 
