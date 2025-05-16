@@ -1,10 +1,7 @@
-
-
- <h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲�𝓪(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
+<h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo4d3VteGg5MGQ0ZmxxYW1lMmVrdjdydWViajh1MWM0azF6YTk2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TX6UpjsXPtQEZ0RwQP/200.webp" width="1000px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo4d3VteGg5MGQ0ZmxxYW1lMmVrdjdydWViajh1MWM0azF6YTk2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TX6UpjsXPtQEZ0RwQP/200.webp" width="100%">
 </p>
-
 
 ---
 
@@ -18,27 +15,40 @@
 ### 🎧 **Spotify**  
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true)](https://open.spotify.com/user/31qd7t3n3pko2nu272rtnsswcd3a)  
 
-
 ---
 
 ### 🌸 **Minhas Skills**  
+
 #### 💻 **Linguagens & Frameworks**  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-ff69b4?style=for-the-badge&logo=react&logoColor=white)  
+![React](https://img.shields.io/badge/-React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-ff69b4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-ff69b4?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-#### 🛠️ **Ferramentas**  
+</div>
+
+#### 🛠️ **Ferramentas & Bancos de Dados**  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
 ![VS Code](https://img.shields.io/badge/-VSCode-ffb6c1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-ffb6c1?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
 
 ---
 
 ### 📊 **GitHub Stats**  
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=animes-web&theme=rose_pine&show_icons=true&hide_border=true&count_private=true" width="45%" height="45%">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animes-web&theme=radical&hide_border=true&layout=compact" width="45%" height="45%">  
+  <img src="https://github-readme-stats.vercel.app/api?username=animes-web&theme=rose_pine&show_icons=true&hide_border=true&count_private=true" width="45%">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animes-web&theme=radical&hide_border=true&layout=compact" width="45%">  
 </div>  
 
 ---
@@ -49,29 +59,14 @@
 
 ---
 
-
-<!-- Seu conteúdo anterior permanece igual até a snake -->
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- Container para os 3 GIFs alinhados -->
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-
-  <!-- GIF 1 -->
-  <div style="flex: 1; min-width: 250px; max-width: 150px;">
-    <img src="https://media1.giphy.com/media/13Z5kstwARnPna/200.webp?cid=ecf05e47ckwcxspr0wegdqy8qtlkazvy2x8rgt78ws9k1iel&ep=v1_gifs_search&rid=200.webp&ct=g" width="50%">
-  </div>
-
- 
-  <!-- GIF 3 -->
-  <div style="flex: 1; min-width: 250px; max-width: 150px;">
-    <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp?cid=ecf05e47u4lf4cuhv9bk5xjn8m7dn0dycmvg2um2j3iengur&ep=v1_gifs_search&rid=200.webp&ct=g" width="50%">
-  </div>
-
+<!-- GIFs alinhados -->
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+  <img src="https://media1.giphy.com/media/13Z5kstwARnPna/200.webp" width="150px" style="border-radius: 10px;">
+  <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp" width="150px" style="border-radius: 10px;">
 </div>
 
 <p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ ✨</p>
-
-  
