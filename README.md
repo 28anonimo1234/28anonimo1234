@@ -1,13 +1,10 @@
-<div align="center">
-  <!-- Fundo GIF (ajustado para mobile) -->
-  <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto;">
-    <img src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif" style="width: 100%; border-radius: 15px; opacity: 0.7;">
-    
-  </div>
-</div>
-<p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4eWZqYjV4d2VtY3F5bGJ5ZzV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6Z3hyZGVnaW5nX2dpZg==" width="300px">
+
+
+ <h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲�𝓪(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif" width="150px">
 </p>
+
 
 ---
 
