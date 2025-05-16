@@ -15,7 +15,7 @@
 
 ---
 
-### 🎧 **O que estou ouvindo agora?**  
+### 🎧 **Spotify**  
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true)](https://open.spotify.com/user/31qd7t3n3pko2nu272rtnsswcd3a)  
 
 
@@ -54,7 +54,7 @@
 </p>
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0YjB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0N3ZqYzB0/giphy.gif" width="150px">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVscWh2d3NwNHA1dWFyNmllOGF3ZnY1cmVjYTd5YnozcHIweTU2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlBDoVLOGidEc/200.webp" width="150px">
 </p>
 
 <p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ ✨</p>
