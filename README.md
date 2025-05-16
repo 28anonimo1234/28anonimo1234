@@ -70,7 +70,7 @@
   </div>
 
   <!-- GIF 3 -->
-  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+  <div style="flex: 1; min-width: 250px; max-width: 150px;">
     <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp?cid=ecf05e47u4lf4cuhv9bk5xjn8m7dn0dycmvg2um2j3iengur&ep=v1_gifs_search&rid=200.webp&ct=g" width="50%">
   </div>
 
