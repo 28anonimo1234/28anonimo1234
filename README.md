@@ -1,7 +1,15 @@
-<div align="center" style="width:100%; height:auto; background-image: url('https://i.pinimg.com/736x/9f/61/34/9f61344de25000ca4175073a203ca470.jpg'); background-size: cover; background-repeat: no-repeat; padding: 20px; border-radius: 10px;">
-    <img src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif" width="200px">
-  <!-- Seu conteúdo aqui -->
- <h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲�𝓪(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
+<div align="center">
+  <!-- Fundo GIF (ajustado para mobile) -->
+  <div style="position: relative; width: 100%; max-width: 800px; margin: 0 auto;">
+    <img src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif" style="width: 100%; border-radius: 15px; opacity: 0.7;">
+    
+    <!-- Conteúdo sobreposto -->
+    <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 90%;">
+      <h1 style="color: hotpink; text-shadow: 2px 2px 4px #000; font-size: clamp(20px, 4vw, 32px);">✨ 𝓑𝓮�-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮�𝓯𝓲𝓵! ✨</h1>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4eWZqYjV4d2VtY3F5bGJ5ZzV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6Z3hyZGVnaW5nX2dpZg==" width="30%" style="min-width: 150px;">
+    </div>
+  </div>
+</div>
 <p align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4eWZqYjV4d2VtY3F5bGJ5ZzV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6Z3hyZGVnaW5nX2dpZg==" width="300px">
 </p>
@@ -60,4 +68,3 @@
 <p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ ✨</p>
 
   
-</div>
