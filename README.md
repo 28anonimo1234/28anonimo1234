@@ -2,7 +2,7 @@
 
  <h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲�𝓪(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/originals/95/ef/b8/95efb8425d270933e5e890b33ab5ef70.gif" width="150px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo4d3VteGg5MGQ0ZmxxYW1lMmVrdjdydWViajh1MWM0azF6YTk2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TX6UpjsXPtQEZ0RwQP/200.webp" width="150px">
 </p>
 
 
