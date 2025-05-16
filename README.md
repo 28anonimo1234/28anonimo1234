@@ -61,17 +61,17 @@
 
   <!-- GIF 1 -->
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVscWh2d3NwNHA1dWFyNmllOGF3ZnY1cmVjYTd5YnozcHIweTU2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlBDoVLOGidEc/200.webp" width="100%">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVscWh2d3NwNHA1dWFyNmllOGF3ZnY1cmVjYTd5YnozcHIweTU2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mlBDoVLOGidEc/200.webp" width="50%">
   </div>
 
   <!-- GIF 2 -->
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
-    <img src="https://media1.giphy.com/media/jt7bAtEijhurm/200.webp?cid=ecf05e47te80tknaj58h2buqr3i6p7dau7x7as7t5ymml7xr&ep=v1_gifs_search&rid=200.webp&ct=g" width="100%">
+    <img src="https://media1.giphy.com/media/jt7bAtEijhurm/200.webp?cid=ecf05e47te80tknaj58h2buqr3i6p7dau7x7as7t5ymml7xr&ep=v1_gifs_search&rid=200.webp&ct=g" width="50%">
   </div>
 
   <!-- GIF 3 -->
   <div style="flex: 1; min-width: 250px; max-width: 300px;">
-    <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp?cid=ecf05e47u4lf4cuhv9bk5xjn8m7dn0dycmvg2um2j3iengur&ep=v1_gifs_search&rid=200.webp&ct=g" width="100%">
+    <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp?cid=ecf05e47u4lf4cuhv9bk5xjn8m7dn0dycmvg2um2j3iengur&ep=v1_gifs_search&rid=200.webp&ct=g" width="50%">
   </div>
 
 </div>
