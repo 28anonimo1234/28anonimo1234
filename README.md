@@ -8,7 +8,7 @@
 ### 🌷 **Sobre mim**  
 - **Dev apaixonad@** por tecnologia, código e café (ou chá! 🍵).  
 - Aprendendo **React, Node.js e UI/UX**.  
-- **Curiosidade:** Amo animes, música eletônica.  
+- **Curiosidade:** Amo animes, música eletrônica.  
 
 ---
 
