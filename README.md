@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#0000FF;"> 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! </h1>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo4d3VteGg5MGQ0ZmxxYW1lMmVrdjdydWViajh1MWM0azF6YTk2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TX6UpjsXPtQEZ0RwQP/200.webp" width="100%">
+  <img src="https://i.pinimg.com/736x/54/e7/e3/54e7e350bb16c73a5bce48824bf0f8d5.jpg" width="100%">
 </p>
 
 ---
