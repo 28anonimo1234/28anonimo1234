@@ -1,12 +1,12 @@
-<h1 align="center" style="color:hotpink;">✨ 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! ✨</h1>
+<h1 align="center" style="color:red;"> 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! </h1>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo4d3VteGg5MGQ0ZmxxYW1lMmVrdjdydWViajh1MWM0azF6YTk2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TX6UpjsXPtQEZ0RwQP/200.webp" width="100%">
 </p>
 
 ---
 
-### 🌷 **Sobre mim**  
-- **Dev apaixonad@** por tecnologia, código e café (ou chá! 🍵).  
+### 🥤 **Sobre mim**  
+- **Dev apaixonad@** por tecnologia, código e café (ou coca-cola! ).  
 - Aprendendo **React, Node.js e UI/UX**.  
 - **Curiosidade:** Amo animes, música eletrônica.  
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 🌸 **Minhas Skills**  
+###  **Minhas Skills**  
 
 #### 💻 **Linguagens & Frameworks**  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
