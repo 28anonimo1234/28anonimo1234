@@ -1,4 +1,4 @@
-<h1 align="center" style="color:red;"> 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! </h1>
+<h1 align="center" style="color:#0000FF;"> 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! </h1>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXo4d3VteGg5MGQ0ZmxxYW1lMmVrdjdydWViajh1MWM0azF6YTk2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TX6UpjsXPtQEZ0RwQP/200.webp" width="100%">
 </p>
@@ -75,4 +75,4 @@
   <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp" width="150px" style="border-radius: 10px;">
 </div>
 
-<p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ ✨</p>
+<p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ </p>
