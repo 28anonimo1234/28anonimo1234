@@ -17,29 +17,10 @@
 
 ---
 
-###  **Minhas Skills**  
-
-#### 💻 **Linguagens & Frameworks**  
+#### 🛠️ **Ferramentas de desenvolvimento e minhas redes sociais**  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-ff69b4?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-ff69b4?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-ff69b4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-ff69b4?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-</div>
-
-#### 🛠️ **Ferramentas & Bancos de Dados**  
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-![VS Code](https://img.shields.io/badge/-VSCode-ffb6c1?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-ffb6c1?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-ffb6c1?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-ffb6c1?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,python,bootstrap,cpp,cs,discord,discordbots,github,instagram,vite,visualstudio,vscode,windows&theme=dark&perline=15)](https://skillicons.dev)
 
 </div>
 
