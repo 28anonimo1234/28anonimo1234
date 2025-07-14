@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#0000FF;"> 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! </h1>
 <p align="center">
-  <img src="https://photos.fife.usercontent.google.com/pw/AP1GczPOsLXrLFUCDHXGf5hdtWYTn7n00uWGLcz_OdvUD2Hrhq9C9QqI4anN=w800-h600-s-no-gm?authuser=0" width="100%">
+  <img src="https://photos.google.com/search/CgAiCBIGCgRyAgoAKKiH1NqAMw%3D%3D/photo/AF1QipMkJ3Zzg8KLYGQUirSaN5MloifyLxlGw5fT7vE7" width="100%">
 </p>
 
 ---
