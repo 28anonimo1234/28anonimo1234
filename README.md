@@ -1,6 +1,6 @@
 <h1 align="center" style="color:#0000FF;"> 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! </h1>
 <p align="center">
-  <img src="https://img.freepik.com/fotos-gratis/cena-de-pixels-graficos-de-8-bits-com-pessoa-no-banco-ao-por-do-sol_23-2151120905.jpg?semt=ais_hybrid&w=740" width="100%">
+  <img src="https://photos.fife.usercontent.google.com/pw/AP1GczPOsLXrLFUCDHXGf5hdtWYTn7n00uWGLcz_OdvUD2Hrhq9C9QqI4anN=w800-h600-s-no-gm?authuser=0?semt=ais_hybrid&w=740" width="100%">
 </p>
 
 ---
