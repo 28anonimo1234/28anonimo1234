@@ -1,16 +1,5 @@
-<h1 align="center" style="color:#0000FF;"> 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓮𝓻𝓯𝓲𝓵! </h1>
-<p align="center">
-  <img src="https://photos.google.com/share/AF1QipM1yUcorB0TQ8bgmG1LGdyZj2e9wdKkvuYnisX8A3BhDG1-tJ6ORszTIjcBFh1LjA?key=dldkVzVSX1VqcEV3Z0hGMDZ3bnNoWklxTF9HcHl3" width="100%">
-</p>
+<h1 align="center" style="color:#0000FF;"> BEM VINDO! </h1>
 
----
-
-### 🥤 **Sobre mim**  
-- **Dev apaixonad@** por tecnologia, código e café (ou coca-cola! ).  
-- Aprendendo **React, Node.js e UI/UX**.  
-- **Curiosidade:** Amo animes, música eletrônica.  
-
----
 
 ### 🎧 **Spotify**  
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=novatorem&bar_color=ff69b4&bar_color_cover=true)](https://open.spotify.com/user/31qd7t3n3pko2nu272rtnsswcd3a)  
@@ -34,13 +23,13 @@
 
 ---
 
-### 💌 **Vamos conversar?**  
+###  **Rede Social?**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_user)  
 
 ---
 
-### 🎮 **Me add para jogar**  
+### 🎮 **Minhas contas de jogo**  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
 [![Xbox](https://img.shields.io/badge/-Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR/play/user/DuskGuitar29614)  
