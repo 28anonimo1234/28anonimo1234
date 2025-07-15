@@ -23,13 +23,13 @@
 
 ---
 
-###  **Rede Social?**  
+###  **Rede Social**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_user)  
 
 ---
 
-### 🎮 **Minhas contas de jogo**  
+### 🎮 **Minhas contas**  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
 [![Xbox](https://img.shields.io/badge/-Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR/play/user/DuskGuitar29614)  
@@ -42,8 +42,8 @@
 
 <!-- GIFs alinhados -->
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-  <img src="https://media1.giphy.com/media/13Z5kstwARnPna/200.webp" width="150px" style="border-radius: 10px;">
+  
   <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp" width="150px" style="border-radius: 10px;">
 </div>
 
-<p align="center" style="color:lightpink;">💖 Obrigada pela visita! Volte sempre~ </p>
+<p align="center" style="color:lightred;"> Obrigado pela visita! Volte sempre~ </p>
