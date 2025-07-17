@@ -15,13 +15,6 @@
 
 ---
 
-### 📊 **GitHub Stats**  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=animes-web&theme=rose_pine&show_icons=true&hide_border=true&count_private=true" width="45%">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Animes-web&theme=radical&hide_border=true&layout=compact" width="45%">  
-</div>  
-
----
 
 ###  **Rede Social**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenvel-kaique-989230310/)
