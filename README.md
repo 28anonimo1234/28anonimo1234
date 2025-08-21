@@ -2,16 +2,7 @@
   <h1 style="color: #00FF00; font-family: monospace; font-size: 2.8rem; text-shadow: 3px 3px #FF1493; animation: glitch 1.5s infinite;">👾 BEM-VINDO AO MEU ARCADE! 👾</h1>
 </div>
 
-<style>
-  @keyframes glitch {
-    0% { transform: translate(0); }
-    20% { transform: translate(-2px, 2px); }
-    40% { transform: translate(2px, -2px); }
-    60% { transform: translate(-2px, 0); }
-    80% { transform: translate(2px, 0); }
-    100% { transform: translate(0); }
-  }
-</style>
+
 
 <section style="margin: 2rem 0;">
   <h3 style="color: #FF69B4; font-family: monospace; font-size: 1.5rem; text-align: center;">🎶 Trilha Sonora (Spotify)</h3>
