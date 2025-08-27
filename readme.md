@@ -1,4 +1,4 @@
-8
+
 ---
 
 ### 🕹️ Sobre mim
@@ -32,7 +32,7 @@
 <p align="center"> <a href="https://www.xbox.com/pt-BR/play/user/"> <img src="https://img.shields.io/badge/Xbox-000000?style=plastic&logo=xbox&logoColor=107C10"/> </a> <a href="https://psnprofiles.com/"> <img src="https://img.shields.io/badge/PlayStation-000000?style=plastic&logo=playstation&logoColor=003791"/> </a> </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=28anonimo1234&theme=chartreuse-dark&show_icons=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anonimo1234&theme=chartreuse-dark&hide=jupyter%20notebook&langs_count=12&layout=compact" height="150"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=28anonimo1234&#x26;theme=chartreuse-dark&#x26;show_icons=true&#x26;hide_border=true&#x26;count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anonimo1234&#x26;theme=chartreuse-dark&#x26;hide_border=true&#x26;layout=compact&#x26;langs_count=12&#x26;size_weight=0.5&#x26;count_weight=0.5&#x26;hide=objective-c,jupyter%20notebook" height="150">
 </p>
 <p align="center"> <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp" width="120" alt="Pixel Hero"/> <img src="https://i.pinimg.com/736x/5e/4a/db/5e4adb8130ca1aca31fa306988764064.jpg" width="120" alt="Pixel Sword"/> <img src="https://i.pinimg.com/1200x/12/33/6e/12336ef2701ebce231e9b3eb3ca2a393.jpg" width="120" alt="Pixel Heart"/> 
