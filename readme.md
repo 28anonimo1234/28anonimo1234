@@ -16,27 +16,7 @@
   <tr>
     <td>
       <a href="https://open.spotify.com/user/31qd7t3n3pko2nu272rtnsswcd3a">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&c---
-
-### 🕹️ Sobre mim
-```ascii
-┌───────────────────────────────┐
-│  Gamer • Dev • Marceneiro     │
-└───────────────────────────────┘
-�
-￼ ￼ 
-�
-￼ 
-
-�
-￼ ￼ ￼ 
-
-￼ ￼ 
-
-�
-￼ ￼ 
-￼ ￼ ￼ 
-```over_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="Spotify Pixel"/>
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="Spotify Pixel"/>
       </a>
     </td>
     <td>
