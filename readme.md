@@ -33,5 +33,5 @@
 <p align="center"> 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=28anonimo1234&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="150"/> 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=28anonimo1234&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800&hide=html,css,json" height="150"/> 
-</p></p>
+</p>
 <p align="center"> <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp" width="120" alt="Pixel Hero"/> <img src="https://i.pinimg.com/736x/5e/4a/db/5e4adb8130ca1aca31fa306988764064.jpg" width="120" alt="Pixel Sword"/> <img src="https://i.pinimg.com/1200x/12/33/6e/12336ef2701ebce231e9b3eb3ca2a393.jpg" width="120" alt="Pixel Heart"/> 
