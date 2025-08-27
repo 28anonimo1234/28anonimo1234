@@ -30,7 +30,7 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/0/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=linkedin&logoColor=00B7EB" /> </a> <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/Instagram-000000?style=plastic&logo=instagram&logoColor=FF1493" /> </a> <a href="https://discord.com/users/"> <img src="https://img.shields.io/badge/Discord-000000?style=plastic&logo=discord&logoColor=5865F2" /> </a> </p>
 <p align="center"> <a href="https://www.xbox.com/pt-BR/play/user/"> <img src="https://img.shields.io/badge/Xbox-000000?style=plastic&logo=xbox&logoColor=107C10"/> </a> <a href="https://psnprofiles.com/"> <img src="https://img.shields.io/badge/PlayStation-000000?style=plastic&logo=playstation&logoColor=003791"/> </a> </p>
-<p align="center"> <p align="center"> 
+<p align="center"> 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=28anonimo1234&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" height="150"/> 
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=28anonimo1234&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800&hide=html,css,json" height="150"/> 
 </p></p>
