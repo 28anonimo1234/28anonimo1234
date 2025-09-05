@@ -17,9 +17,6 @@
 <table>
 <tr>
 <td align="center">
-   <img src="https://i.pinimg.com/736x/6a/d8/8a/6ad88ae2aad1f197a08731f932eb2ca2.jpg" width="300" height="450" "/>
-</td>
-<td align="center">
 <h3>🎵 ouvindo</h3>
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="Spotify" width="300" height="300" />
 </td>
@@ -52,20 +49,7 @@
 
 </div>
 
-### MyAnime List
 
-<div align="center">
-<img src="https://i.imgur.com/54TK7Nn.png" width="500" height="1080"/><br><br>
-<p>assistindo no momento: Komi-san wa, Comyushou desu.</p>  
-<p>episódios vistos: 1233  </p> 
-<p>total de animes assistidos:  76</p> 
-
-**assistidos recentemente:**  
-Black Clover  • Isekai Quartet 3 
-
-
-
-</div>
 
 ---
 
