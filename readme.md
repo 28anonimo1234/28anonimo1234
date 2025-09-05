@@ -2,10 +2,15 @@
 ---
 
 ### 🕹️ Sobre mim
+
 ```ascii
-┌──(user@linux)-[~]
-└─$ whoami
-Gamer • Dev • Marceneiro
+
+┌───────────────────────────────────────────────┐
+│   Welcome to my Terminal Profile (root@me)    │
+├───────────────────────────────────────────────┤
+│   Gamer • Dev • Marceneiro • Linux User 🐧    │
+└───────────────────────────────────────────────┘
+
 
 ```
 
@@ -26,15 +31,13 @@ Gamer • Dev • Marceneiro
 </table>
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp,cs,bootstrap,github,vscode,windows&theme=light" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,cs,php,javascript,html,css,bootstrap,github,vscode&theme=light" /> </p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/0/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=linkedin&logoColor=00B7EB" /> </a> <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/Instagram-000000?style=plastic&logo=instagram&logoColor=FF1493" /> </a> <a href="https://discord.com/users/"> <img src="https://img.shields.io/badge/Discord-000000?style=plastic&logo=discord&logoColor=5865F2" /> </a> </p>
 <p align="center"> <a href="https://www.xbox.com/pt-BR/play/user/"> <img src="https://img.shields.io/badge/Xbox-000000?style=plastic&logo=xbox&logoColor=107C10"/> </a> <a href="https://psnprofiles.com/"> <img src="https://img.shields.io/badge/PlayStation-000000?style=plastic&logo=playstation&logoColor=003791"/> </a> </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=28anonimo1234&#x26;theme=chartreuse-dark&#x26;show_icons=true&#x26;hide_border=true&#x26;count_private=true" height="150">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anonimo1234&layout=compact&theme=radical" height="150">
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=28anonimo1234&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anonimo1234&layout=compact&theme=chartreuse-dark" height="150"> </p>
 
 </p>
 <p align="center"> <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp" width="120" alt="Pixel Hero"/> <img src="https://i.pinimg.com/736x/5e/4a/db/5e4adb8130ca1aca31fa306988764064.jpg" width="120" alt="Pixel Sword"/> <img src="https://i.pinimg.com/1200x/12/33/6e/12336ef2701ebce231e9b3eb3ca2a393.jpg" width="120" alt="Pixel Heart"/> 
