@@ -1,44 +1,94 @@
-<img src='https://imgur.com/a/fXgpvcD'/>
+# 🐧 Olá!
 
----
-
-### 🐧 Sobre mim
-
-```ascii
-
-┌───────────────────────────────────────────────┐
-│   Welcome to my Terminal Profile (root@me)    │
-├───────────────────────────────────────────────┤
-│   Gamer • Dev • Marceneiro • Linux User 🐧    │
-└───────────────────────────────────────────────┘
-
-
+```bash
+┌─[28anonimo1234@linux]─[~]
+├─$ cat sobre_mim.txt
+│ gosto de café ☕ 
+│ curto animes & jogos
+│ marceneiro
+└─$ ./vida.sh --mode=tranquilo
 ```
 
 
 
+---
 
-<table align="left">
-  <tr>
-    <td>
-      <a href="https://open.spotify.com/user/31qd7t3n3pko2nu272rtnsswcd3a">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="Spotify Pixel"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/736x/6a/d8/8a/6ad88ae2aad1f197a08731f932eb2ca2.jpg" width="700px" alt="Minha Foto"/>
-    </td>
-  </tr>
+<div align="center">
+<table>
+<tr>
+<td align="center">
+   <img src="https://i.pinimg.com/736x/6a/d8/8a/6ad88ae2aad1f197a08731f932eb2ca2.jpg" width="300" height="450" "/>
+</td>
+<td align="center">
+<h3>🎵 ouvindo</h3>
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="Spotify" width="300" height="300" />
+</td>
+<td align="center">
+<h3>NIKKO</h3>
+<a href="https://www.youtube.com/watch?v=tbGLhR8-h3k&list=RDMM&index=21">
+<img src="https://img.youtube.com/vi/tbGLhR8-h3k/mqdefault.jpg" width="400" height="700" style="border-radius: 10px;"/>
+<br>
+<em>clique para assistir 🎥</em>
+</a>
+</td>
+</tr>
 </table>
+</div>
+
+---
+
+<div align="center">
+
+**🐧 Sistemas Operacionais que utilizo**
+
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+
+**Skills**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,cs,php,js,html,css,git,vscode" />
+
+</div>
+
+### MyAnime List
+
+<div align="center">
+<img src="https://i.imgur.com/54TK7Nn.png" width="500" height="1080"/><br><br>
+<p>assistindo no momento: Komi-san wa, Comyushou desu.</p>  
+<p>episódios vistos: 1233  </p> 
+<p>total de animes assistidos:  76</p> 
+
+**assistidos recentemente:**  
+Black Clover  • Isekai Quartet 3 
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,python,cpp,cs,php,javascript,html,css,bootstrap,github,vscode&theme=light" /> </p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/0/"> <img src="https://img.shields.io/badge/LinkedIn-000000?style=plastic&logo=linkedin&logoColor=00B7EB" /> </a> <a href="https://instagram.com/"> <img src="https://img.shields.io/badge/Instagram-000000?style=plastic&logo=instagram&logoColor=FF1493" /> </a> <a href="https://discord.com/users/"> <img src="https://img.shields.io/badge/Discord-000000?style=plastic&logo=discord&logoColor=5865F2" /> </a> </p>
-<p align="center"> <a href="https://www.xbox.com/pt-BR/play/user/"> <img src="https://img.shields.io/badge/Xbox-000000?style=plastic&logo=xbox&logoColor=107C10"/> </a> <a href="https://psnprofiles.com/"> <img src="https://img.shields.io/badge/PlayStation-000000?style=plastic&logo=playstation&logoColor=003791"/> </a> </p>
+</div>
 
-<p align="center">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=28anonimo1234&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anonimo1234&layout=compact&theme=chartreuse-dark" height="150"> </p>
+---
 
-</p>
-<p align="center"> <img src="https://media4.giphy.com/media/8gSh4No47eIGA/200.webp" width="120" alt="Pixel Hero"/> <img src="https://i.pinimg.com/736x/5e/4a/db/5e4adb8130ca1aca31fa306988764064.jpg" width="120" alt="Pixel Sword"/> <img src="https://i.pinimg.com/1200x/12/33/6e/12336ef2701ebce231e9b3eb3ca2a393.jpg" width="120" alt="Pixel Heart"/> 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/Steam-ウェンベル-000000?style=for-the-badge&logo=steam&logoColor=white"/>](https://steamcommunity.com/profiles/76561199651985209/)
+[<img src="https://img.shields.io/badge/Discord-bora%20jogar-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=28anonimo1234&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=28anonimo1234&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=28anonimo1234&color=blueviolet&style=plastic&label=visitantes"/>
+
+</div>
