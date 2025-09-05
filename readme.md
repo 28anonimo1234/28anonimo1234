@@ -1,7 +1,8 @@
+<img src='https://imgur.com/a/fXgpvcD'/>
 
 ---
 
-### 🕹️ Sobre mim
+### 🐧 Sobre mim
 
 ```ascii
 
