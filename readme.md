@@ -20,12 +20,7 @@
 <h3>🎵 ouvindo</h3>
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="Spotify" width="300" height="500" />
 </td>
-<td align="center">
-<h3>NIKKO</h3>
-<a href="https://www.youtube.com/watch?v=tbGLhR8-h3k&list=RDMM&index=21">
-<img src="https://img.youtube.com/vi/tbGLhR8-h3k/mqdefault.jpg" width="400" height="700" style="border-radius: 10px;"/>
-<br>
-<em>clique para assistir 🎥</em>
+
 </a>
 </td>
 </tr>
