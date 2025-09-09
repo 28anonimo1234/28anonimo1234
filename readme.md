@@ -16,7 +16,7 @@
 <div align="center">
 <table>
 <tr>
-<td align="center">
+<td align="left">
 <h3>🎵 ouvindo</h3>
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qd7t3n3pko2nu272rtnsswcd3a&cover_image=true&theme=default&bar_color=00ff00&bar_color_cover=true" alt="Spotify" width="300" height="500" />
 </td>
