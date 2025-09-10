@@ -3,7 +3,7 @@
 ```bash
 ┌─[28anonimo1234@linux]─[~]
 ├─$ cat sobre_mim.txt
-│ gosto de café ☕ 
+│ gosto de café ☕
 │ curto animes & jogos
 │ marceneiro
 └─$ ./vida.sh --mode=tranquilo
