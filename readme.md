@@ -5,7 +5,7 @@
 ├─$ cat sobre_mim.txt
 │ gosto de café ☕
 │ curto animes & jogos
-│ marceneiro
+│ marceneiro; Aprendendo Dart
 └─$ ./vida.sh --mode=tranquilo
 ```
 
