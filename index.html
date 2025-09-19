@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Nikko Studios</title>
+  <meta name="description" content="Homenagem visual a Nikko Studios — dark neon + kawaii/anime UI/UX."/>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="dark">
+  <canvas id="bg-canvas" aria-hidden="true"></canvas>
+
+  <header class="site-header" role="banner">
+    <div class="custom-svg-container" aria-hidden="true" style="width:50px; height:50px;">
+      <img src="https://i.imgur.com/qi4x0CP.png" alt="Custom SVG Image" class="custom-svg-img" style="width:50px; height:50px;" />
+        </div>
+    <nav class="nav" role="navigation" aria-label="Principal">
+      <a href="#videos">Vídeos</a>
+        
+      <a href="#playlists">Playlists</a>
+      <a href="#timeline">Linha do tempo</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="hero" aria-labelledby="hero-title">
+
+      <div class="hero-banner" role="img" aria-hidden="true"></div>
+
+      <div class="hero-content" style="position: relative; z-index: 1010;">
+        <h1 id="hero-title" class="neon-title">Nikko Studios</h1>
+        <p class="subtitle">7 anos de inspiração e criatividade <span aria-hidden="true">🎬</span></p>
+        <button id="cta" class="btn-primary" aria-label="Ver criações">Ver criações ♥</button>
+      </div>
+
+      <div id="mascot-wrap" class="mascot" aria-hidden="true">
+        <img src="https://img.wattpad.com/cc9c06d8524ba735eb92afc2b495cf4ef76e13fa/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f624c6f586e6d6b6d6349373834513d3d2d313030313039373630312e313635343432383265383966396139353332353635373235333633382e676966"
+             alt="Mascote Nikko Studios" />
+      </div>
+    </section>
+
+    <section id="videos" class="videos-section" aria-labelledby="videos-title">
+      <h2 id="videos-title" class="section-title">Vídeos</h2>
+      <div class="video-grid" role="list">
+        <article class="video-card" role="listitem">
+          <div class="thumb" data-video-id="SaIRQkQCZzA" title="Carregar vídeo">
+            <button class="play-thumb" aria-label="Carregar vídeo 1">▶</button>
+          </div>
+          <h3 class="video-title">—</h3>
+          <span class="badge">Nikko Studios</span>
+        </article>
+
+        <article class="video-card" role="listitem">
+          <div class="thumb" data-video-id="mD_Rqhv0Ch8" title="Carregar vídeo">
+            <button class="play-thumb" aria-label="Carregar vídeo 2">▶</button>
+          </div>
+          <h3 class="video-title">—</h3>
+          <span class="badge">Nikko Studios</span>
+        </article>
+
+        <article class="video-card" role="listitem">
+          <div class="thumb" data-video-id="8RlLKusHreQ" title="Carregar vídeo">
+            <button class="play-thumb" aria-label="Carregar vídeo 3">▶</button>
+          </div>
+          <h3 class="video-title">—</h3>
+          <span class="badge">Nikko Studios</span>
+        </article>
+
+        <article class="video-card" role="listitem">
+          <div class="thumb" data-video-id="fGfHxJq5594" title="Carregar vídeo">
+            <button class="play-thumb" aria-label="Carregar vídeo 4">▶</button>
+          </div>
+          <h3 class="video-title">—</h3>
+          <span class="badge">Nikko Studios</span>
+        </article>
+
+        <article class="video-card" role="listitem">
+          <div class="thumb" data-video-id="mqiQHwRarIk" title="Carregar vídeo">
+            <button class="play-thumb" aria-label="Carregar vídeo 5">▶</button>
+          </div>
+          <h3 class="video-title">—</h3>
+          <span class="badge">Nikko Studios</span>
+        </article>
+      </div>
+    </section>
+
+   <section id="playlists" class="playlists-section" aria-labelledby="playlists-title">
+  <h2 id="playlists-title" class="section-title">Playlists</h2>
+  <div class="carousel" role="region" aria-roledescription="carousel" aria-label="Playlists">
+    <div class="carousel-track">
+
+      <div class="playlist-card">
+        <h3>Playlist 1</h3>
+        <iframe src="https://www.youtube.com/embed/videoseries?list=PLQW0HkPFutH9BVVIiAJcXODRrjpa30J41"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          loading="lazy" title="Playlist 1"></iframe>
+      </div>
+
+      <div class="playlist-card">
+        <h3>Playlist 2</h3>
+        <iframe src="https://www.youtube.com/embed/videoseries?list=PLQW0HkPFutH9PL_9Kupr3XWUceucroLM1"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          loading="lazy" title="Playlist 2"></iframe>
+      </div>
+
+      <div class="playlist-card">
+        <h3>Playlist 3</h3>
+        <iframe src="https://www.youtube.com/embed/videoseries?list=PLQW0HkPFutH9bLXydNfWHAUWvlwEJJW3v"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          loading="lazy" title="Playlist 3"></iframe>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    window.addEventListener('DOMContentLoaded', function () {
+      alert('Parabéns pelos 7 anos de maravilhosas música e edits!');
+    });
+  </script>
+</section>
+
+
+    <section id="timeline" class="timeline-section" aria-labelledby="timeline-title">
+      <h2 id="timeline-title" class="section-title">Linha do tempo</h2>
+      <div class="timeline" role="list">
+        <div class="marker" data-year="2018">
+          <div class="dot"></div>
+          <div class="label"><strong>2018</strong><span>Criação do canal — 11 de setembro de 2018</span></div>
+        </div>
+        <div class="marker" data-year="2019-2024">
+          <div class="dot"></div>
+          <div class="label"><strong>2019–2024</strong><span>Marcos importantes e crescimento</span></div>
+        </div>
+        <div class="marker highlight" data-year="2025" id="year-2025">
+          <div class="dot"></div>
+          <div class="label"><strong>2025</strong><span>7 anos de Nikko Studios 🎉</span></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <p>Feito com ♥ para <strong>Nikko Studios</strong>. Créditos e agradecimentos.</p>
+  </footer>
+
+  <script src="js/main.js" defer></script>
+</body>
+</html>
