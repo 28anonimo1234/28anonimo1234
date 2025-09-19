@@ -1,0 +1,1 @@
+Contribuições são bem-vindas! Abra uma issue ou um pull request.

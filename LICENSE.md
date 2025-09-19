@@ -1,0 +1,1 @@
+MIT License\n\nCopyright (c) 2025 28anonimo1234
