@@ -18,7 +18,8 @@
 ![Linux Mint](https://img.shields.io/badge/Mint-87CF3E?style=flat-square&logo=Linux%20Mint&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-**Skills**
+
+
 
 
 </div>
