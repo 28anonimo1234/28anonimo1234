@@ -1,0 +1,21 @@
+name: Perfil - Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Roda diariamente à meia-noite
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          # Pode ser necessário configurar o token
+          # Exemplo: token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_topics: yes
+          plugin_topics_mode: icons
