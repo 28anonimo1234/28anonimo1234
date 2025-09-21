@@ -1,0 +1,1 @@
+![Discord Developer](https://img.shields.io/badge/Discord-Developer-5865F2?style=flat-square&logo=discord&logoColor=white)
