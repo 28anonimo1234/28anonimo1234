@@ -11,7 +11,7 @@
 
 <div align="center">
 
-**🐧 Sistemas Operacionais que utilizo**
+**🐧 Sistemas Operacionais que eu utilizo**
 
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -41,9 +41,9 @@
 
 Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 
-* **[Nazuna](https://github.com/28anonimo1234/Nazuna)** - Um projeto para otimização e organização de fotos. (Ajuste a descrição conforme a real utilidade do projeto).
-* **[Gomes Marketplace](https://github.com/28anonimo1234/GomesMarketplace)** - Um sistema de e-commerce completo com funcionalidades para vendedores e compradores. (Ajuste a descrição conforme a real utilidade do projeto).
-* **[Ifood 2](https://github.com/28anonimo1234/Ifood-2)** - Um aplicativo de delivery com foco em usabilidade e novas funcionalidades. (Ajuste a descrição conforme a real utilidade do projeto).
+* **[Nazuna](https://github.com/28anonimo1234/nazuna)** - Bot para o seu grupo de WhatSapp (Com instruções de instalação e como usar).
+* **[Gomes Marketplace](https://github.com/28anonimo1234/Gomes)** - Um sistema de e-commerce completo com funcionalidades para adicionar ao carrinho (é um projeto simples somente para aprender typescript)
+* **[Ifood 2](https://github.com/28anonimo1234/Ifood-2)** - Um aplicativo de delivery com foco em atender microempreendedores.
 
 ---
 
