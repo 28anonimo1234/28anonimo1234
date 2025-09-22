@@ -43,7 +43,7 @@ Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 
 * **[Nazuna](https://github.com/28anonimo1234/nazuna)** - Bot para o seu grupo de WhatSapp (Com instruções de instalação e como usar).
 * **[Gomes Marketplace](https://github.com/28anonimo1234/Gomes)** - Um sistema de e-commerce completo com funcionalidades para adicionar ao carrinho (é um projeto simples somente para aprender typescript)
-* **[Ifood 2](https://github.com/28anonimo1234/Ifood-2)** - Um aplicativo de delivery com foco em atender microempreendedores.
+* **[Ifood 2](https://github.com/THEUZSN/Ifood2)** - Um aplicativo de delivery com foco em atender microempreendedores.
 
 ---
 
@@ -61,6 +61,3 @@ Aqui estão alguns dos projetos em que estou trabalhando atualmente:
 [<img src="https://img.shields.io/badge/Discord-bora%20jogar-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.com/users/)
 
 </div>
-<p align="center">
-  <img src="https://github-contributions-api.jogruber.de/28anonimo1234.svg?theme=dark_3d&animate=false"/>
-</p>
